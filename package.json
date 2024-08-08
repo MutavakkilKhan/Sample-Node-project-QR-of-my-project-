@@ -1,0 +1,16 @@
+{
+  "name": "qr_code_npm",
+  "version": "1.0.0",
+  "description": "I'm trying to create a QR code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MUTTU KHAN",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "qr-image": "^3.2.0"
+  }
+}
